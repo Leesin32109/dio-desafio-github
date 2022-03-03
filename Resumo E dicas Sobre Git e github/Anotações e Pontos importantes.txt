@@ -1,0 +1,23 @@
+## Bem vindo(a) Para as dicas e anotações sobre o Git/Github
+
+#### Link para o download do Git:
+
+#### [Git](https://git-scm.com/downloads) Apenas clicar no nome "git", e será direcionado para a página de download
+
+#### (Nesse site é permitido o download em diferentes sistemas operacionais como: Linux, Mac e Windows!)
+
+## Anotações gerais e importantes
+
+- **O Git é fundamental para a otimização de projetos. E, com certeza, se você usa ou pretende usar o Git é importante que esteja familiarizado com os principais comandos Git.**
+- **O Git é o sistema *opensource* de controle de versão mais popular da internet.**
+
+## Auxílio para os comandos do git
+
+Neste link a seguir será encontrado diversos comandos que me ajudou e também irá ajudar você que pretende começar com o git de forma impactante confira: [Comandos para o Git](https://comandosgit.github.io/)
+
+## Obrigado pela atenção! E espero que gostem do material
+
+
+
+
+
